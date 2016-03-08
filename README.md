@@ -124,5 +124,5 @@ git push
 Version modificada por M Osman para practicar
 
 ```
-probando modificarlo
+probando modificarlo en un nuevo directorio
 ```
